@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at snakes1205.v(392): always construct contains both blocking and non-blocking assignments File: W:/120502/snakes1205.v Line: 392
+Warning (10268): Verilog HDL information at snakes1205.v(636): always construct contains both blocking and non-blocking assignments File: W:/120502/snakes1205.v Line: 636
